@@ -1,6 +1,18 @@
-title: Minimal theme
-logo: /assets/img/PassportPhotograph.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Harshal Bhatkar </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/harshal-bhatkar-b44486235/">LinkedIn</a> |
+  <a href="https://github.com/Harshal-Bhatkar">GitHub</a>
+  
+  <br>   
+  I am currently working as a Senior Software Developer in Larsen And Toubro Infotech Ltd.
+  I have three years of experience in middle-ware technologies and currently ungeroing a Executive PG program in ML/AI.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
