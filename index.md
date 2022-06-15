@@ -28,13 +28,13 @@ MCA21 is a transformational and successful project that enabled easy and secure 
 
 ## Technical Ability
 
-1.Middleware Expert
+-Middleware Expert
 
-2.Experience with tool WSO2, Mulesoft, Apigee and Bommi.
+-Experience with tool WSO2, Mulesoft, Apigee and Bommi.
 
-3.Spring Boot
+-Spring Boot
 
-4.JAVA
+-JAVA
 
 
 ---
