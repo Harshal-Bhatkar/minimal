@@ -5,7 +5,7 @@ I have three years of experience in middle-ware technologies and currently unger
 ---
 ## Work Experience
 
-### Project -Ministry of Corporate Affairs (MCA)
+### Project1 -Ministry of Corporate Affairs (MCA)
 #### Team Size- 48
 #### Start Date - March 2020
 #### End Date - On Going
@@ -14,6 +14,14 @@ MCA is the regulator for all the companies and LLPs which are registered and ope
 MCA21 is a transformational and successful project that enabled easy and secure access to MCA services by the stakeholders, corporate sector as well as investors, through MCA portal
 
 ---
+### Project2 -Fraud Detection
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Harshal-Bhatkar/fraud_detection)
+
+<center><img src="images/fraud_detection.jpg"/></center>
+
 
 ## Role and Contribution
 -Building and Testing API 
