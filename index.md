@@ -1,4 +1,7 @@
 # About Me
+I am currently working as a Senior Software Developer in Larsen And Toubro Infotech Ltd.
+I have three years of experience in middle-ware technologies and currently ungeroing a Executive PG program in ML/AI.
+
 ---
 ## Work Experience
 
